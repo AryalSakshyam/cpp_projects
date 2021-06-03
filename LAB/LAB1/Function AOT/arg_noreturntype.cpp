@@ -27,4 +27,5 @@ void area_of_triangle(float x,float y,float z)
     s=(x+y+z)/2;
     area=sqrt(s*(s-x)*(s-y)*(s-z));
     cout<<"area of triangle = "<<area;
+    
 }
