@@ -27,4 +27,5 @@ float area_of_triangle()
 	area=sqrt(s*(s-a)*(s-b)*(s-c));
 
     return area;
+    
 	}
