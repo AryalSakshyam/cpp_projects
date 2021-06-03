@@ -21,5 +21,6 @@ void areaoftriangle()
 	cout<<"Area of triangle is : "<<Area;
 	cout<<endl;
 	
+	
 }
 
