@@ -45,4 +45,5 @@ int main()
     s1.input();
     s1.display();
     return 0;
+    
 };
