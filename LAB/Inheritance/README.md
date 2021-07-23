@@ -24,3 +24,5 @@ In OOP ambiguity means duplication of members due to inheritance, In child class
 Virtual Base Class
 To avoid ambiguity we can make the common base class as virtual base classContainerClass: Class consists of object of one class in another object.
 
+
+
